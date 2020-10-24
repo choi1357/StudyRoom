@@ -1,4 +1,4 @@
-
+#1924 문제 풀이
 import sys
 
 #f = sys.stdin
